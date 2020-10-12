@@ -9,4 +9,4 @@ docker-compose run --rm npm run :commands: (install, dev, etc.) - (same as php a
 
 ## Codebase
 
-./src folder contains the Laravel Codebase
+./src folder contains the source code
