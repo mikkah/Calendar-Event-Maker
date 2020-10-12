@@ -2,7 +2,7 @@
 
 
 docker-compose up --build -d 
-  - downloads and runs the images on each container inside the docker-compose.yaml
+  - download and run the images on each container inside the docker-compose.yaml
 
 docker-compose run --rm composer install
   - download all the packages inside the ./src/composer.json
